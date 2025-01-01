@@ -1,0 +1,10 @@
+/home/userland/bdk-core-rust-tutorial/bdk-core-wallet-example/target/debug/deps/libbitcoincore_rpc-72c60859bcd27e83.rmeta: /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/lib.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/client.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/error.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/queryable.rs
+
+/home/userland/bdk-core-rust-tutorial/bdk-core-wallet-example/target/debug/deps/libbitcoincore_rpc-72c60859bcd27e83.rlib: /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/lib.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/client.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/error.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/queryable.rs
+
+/home/userland/bdk-core-rust-tutorial/bdk-core-wallet-example/target/debug/deps/bitcoincore_rpc-72c60859bcd27e83.d: /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/lib.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/client.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/error.rs /home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/queryable.rs
+
+/home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/lib.rs:
+/home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/client.rs:
+/home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/error.rs:
+/home/userland/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.13.0/src/queryable.rs:

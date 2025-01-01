@@ -1,0 +1,10 @@
+[package]
+name = "bdk-core-wallet-example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bdk = { version = "^0.10", default-features = false, features = ["all-keys", "key-value-db", "rpc"]}
+dirs-next = "2.0"
+# traitobject = "0.1.1"  # or a newer version if available
+
